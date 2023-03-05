@@ -13,7 +13,7 @@ const data = [
       }, 
       {
         id: 3,
-        image: "src/assets/american.png",
+        image: "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c60f6cf9-77bf-40c4-a2be-d85fcd7018fa/dfr085c-55426eb7-9b1a-4dc0-9238-2b837d40bb1f.png/v1/fill/w_1280,h_614,q_80,strp/american_by_xaemax_dfr085c-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NjE0IiwicGF0aCI6IlwvZlwvYzYwZjZjZjktNzdiZi00MGM0LWEyYmUtZDg1ZmNkNzAxOGZhXC9kZnIwODVjLTU1NDI2ZWI3LTliMWEtNGRjMC05MjM4LTJiODM3ZDQwYmIxZi5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.KB-K60zhKlORlLARpeacBLR-JMUbaEJxuAvMuHX19CE",
         title: "Empresa A.A.C.",
         description: "www.americanasiacorp.com"
       },
